@@ -50,7 +50,6 @@ int main() {
     while (true){
 
         shuffleArray(unsortedArray, howLong);
-        checkSorted(unsortedArray, howLong);
         count++;
 
         for (int i = 0; i < howLong; i++){
