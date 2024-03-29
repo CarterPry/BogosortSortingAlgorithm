@@ -10,7 +10,7 @@ This implementation includes:
 - A sorted check function to determine if the array is sorted.
 - A demonstration of using the algorithm to sort a predefined array.
 <p align="center">
-  <img src="https://www.kirupa.com/data_structures_algorithms/images/bogosort_steps_200.png" alt="Random" width="325" height="425" />
+  <img src="https://www.kirupa.com/data_structures_algorithms/images/bogosort_steps_200.png" alt="Random" width="3375" height="425" />
 </p>
 
 
