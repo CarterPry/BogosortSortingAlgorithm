@@ -2,7 +2,7 @@
 This script is the implementation of the Bogosort algorithm, an inefficient sorting algorithm based on generating random permutations of the array until it is fully sorted. I wrote this program in C with an already defined array (can be changed to any length and any value) just for fun.
 
 ## Description
-Bogosort also known humorously as stupid sort, permutation sort, or shotgun sort, is a simple sorting algorithm. The algorithm shuffles the array randomly until it happens to be sorted. Due to its nature, the time complexity of this algorithm can range from O(n) in the best case to undefined in the worst case, as there is no guarantee it will ever complete.
+The algorithm shuffles the array randomly until it happens to be sorted. Because of this, the time complexity of the algorithm can range from O(n) in the best case to however unlucky you are. Imagine you have a deck of cards and you want them from least to greatest. So you decide to shuffle them up, and see if they're sorted. They are not so you shuffle them again, and keep repeating this process until they finally are sorted. This is the Bogosort algorithm.
 
 This implementation includes:
 - A random shuffle function to generate permutations of the array.
